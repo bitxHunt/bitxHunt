@@ -11,7 +11,7 @@
 - ☕ Specialises in Software Development, Java Programming  
 - 🍀 Currently leraning React.js, Next.js, and SWIFT Programming
 
-## ⚙ My Skills Set 
+## ⚙ Skills Set 
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
