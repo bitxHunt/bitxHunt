@@ -8,7 +8,7 @@
 ## 📢 About Me
 
 - ✨ Aspiring Devops Engineer
-- 👨‍💻 Final Information Technology Student @Singapore Polytechnic
+- 👨‍💻 Final Year Information Technology Student @Singapore Polytechnic
 - ☕ Specialises in Software Development, Java Programming
 - 🍀 Currently learning Tanstack, Next.js and Containerization
 
